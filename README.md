@@ -3,7 +3,7 @@ Adaptive AI signals for smooth, congestion‑reducing traffic waves.
 
 # 🚦 Traffic Signal Optimizer (Prototype)
 
-A lightweight reinforcement learning prototype to optimize 4-lane traffic junctions, inspired by FUSION (TFL) and built under computing constraints (Google Colab). Merges rule-based logic and policy gradient methods to simulate intelligent signal control.
+A lightweight reinforcement learning prototype to optimize 4-lane traffic junctions, inspired by FUSION (TFL) and built under computing constraints (Google Colab). Merges rule-based logic and policy gradient methods to simulate intelligent signal control. The key idea is learning traffic flow as a system of delayed rewards, not hard-coded logic. Just like neural networks abstract patterns from raw data, this system learns traffic rules from experience—without ever being told what they are.
 
 ---
 
